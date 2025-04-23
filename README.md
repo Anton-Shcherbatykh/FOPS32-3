@@ -36,10 +36,13 @@
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_2.jpg)
    
 3. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
-   
+
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_3.jpg)
+     
 4. Загрузите файл в репозиторий с помощью jenkins.
-
-
+ ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_4_1.jpg)
+ ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_4_2.jpg)
+ ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_4_3.jpg)
 
 
 
