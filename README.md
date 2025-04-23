@@ -25,8 +25,16 @@
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_1.jpg)
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2_2.jpg)
    
+### Задание 3
+1. Установите на машину Nexus.
 
-
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_1.jpg)
+   
+2. Создайте raw-hosted репозиторий.
+   
+4. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
+   
+6. Загрузите файл в репозиторий с помощью jenkins.
 
 
 
