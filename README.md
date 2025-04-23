@@ -33,6 +33,8 @@
       
 2. Создайте raw-hosted репозиторий.
    
+   ![alt text](https://github.com/Anton-Shcherbatykh/FOPS32-3/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3_2.jpg)
+   
 3. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
    
 4. Загрузите файл в репозиторий с помощью jenkins.
