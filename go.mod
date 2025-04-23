@@ -1,3 +1,3 @@
-module github.com/Anton-Shcherbatykh/FOPS32-3
+module github.com/netology-code/sdvps-materials
 
-go 1.24.2
+go 1.16
